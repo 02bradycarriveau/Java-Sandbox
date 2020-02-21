@@ -14,6 +14,13 @@
       </list>
     </option>
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="617c7dd6-9171-49ab-bec5-290d6064df81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -29,6 +36,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -95,5 +103,51 @@
       <screen x="67" y="27" width="1333" height="1023" />
     </state>
     <state x="396" y="261" width="672" height="678" key="search.everywhere.popup/67.27.1333.1023@67.27.1333.1023" timestamp="1582290667548" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DevelopmentJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevelopmentJava" />
+      <module name="Java Sandbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DevelopmentJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582291724385">
+      <screen x="67" y="27" width="1333" height="1023" />
+    </state>
+    <state x="191" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1333.1023@67.27.1333.1023" timestamp="1582291724385" />
+    <state width="1267" height="255" key="GridCell.Tab.0.bottom" timestamp="1582291950992">
+      <screen x="67" y="27" width="1333" height="1023" />
+    </state>
+    <state width="1267" height="255" key="GridCell.Tab.0.bottom/67.27.1333.1023@67.27.1333.1023" timestamp="1582291950992" />
+    <state width="1267" height="255" key="GridCell.Tab.0.center" timestamp="1582291950989">
+      <screen x="67" y="27" width="1333" height="1023" />
+    </state>
+    <state width="1267" height="255" key="GridCell.Tab.0.center/67.27.1333.1023@67.27.1333.1023" timestamp="1582291950989" />
+    <state width="1267" height="255" key="GridCell.Tab.0.left" timestamp="1582291950988">
+      <screen x="67" y="27" width="1333" height="1023" />
+    </state>
+    <state width="1267" height="255" key="GridCell.Tab.0.left/67.27.1333.1023@67.27.1333.1023" timestamp="1582291950988" />
+    <state width="1267" height="255" key="GridCell.Tab.0.right" timestamp="1582291950989">
+      <screen x="67" y="27" width="1333" height="1023" />
+    </state>
+    <state width="1267" height="255" key="GridCell.Tab.0.right/67.27.1333.1023@67.27.1333.1023" timestamp="1582291950989" />
+    <state x="222" y="173" key="SettingsEditor" timestamp="1582291785903">
+      <screen x="67" y="27" width="1333" height="1023" />
+    </state>
+    <state x="222" y="173" key="SettingsEditor/67.27.1333.1023@67.27.1333.1023" timestamp="1582291785903" />
   </component>
 </project>
